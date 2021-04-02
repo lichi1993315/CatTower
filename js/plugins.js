@@ -6,5 +6,6 @@ var $plugins =
 {"name":"MVMotaItems","status":true,"description":"","parameters":{}},
 {"name":"MVMotaMonsters","status":true,"description":"","parameters":{}},
 {"name":"MVMotaAtcTypes","status":true,"description":"","parameters":{}},
-{"name":"MVMotaDefTypes","status":true,"description":"","parameters":{}}
+{"name":"MVMotaDefTypes","status":true,"description":"","parameters":{}},
+{"name":"test","status":true,"description":"Allows using more than 999 maps","parameters":{}}
 ];
