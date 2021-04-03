@@ -65,8 +65,10 @@ null,
 {"id":63,"expanded":true,"name":"解谜1(chain effect)","order":63,"parentId":6,"scrollX":500.72727272727275,"scrollY":352.90909090909093},
 {"id":64,"expanded":true,"name":"小视野","order":67,"parentId":6,"scrollX":492,"scrollY":344.1818181818182},
 {"id":65,"expanded":false,"name":"Test Map Trasition","order":68,"parentId":64,"scrollX":832,"scrollY":640},
-{"id":66,"expanded":true,"name":"tictactoe","order":69,"parentId":6,"scrollX":500.72727272727275,"scrollY":352.90909090909093},
+{"id":66,"expanded":true,"name":"tictactoe","order":69,"parentId":6,"scrollX":759.3333333333334,"scrollY":427},
 {"id":67,"expanded":false,"name":"解谜2(推石头)","order":64,"parentId":6,"scrollX":832,"scrollY":640},
 {"id":68,"expanded":false,"name":"解谜3(开关/输密码)","order":65,"parentId":6,"scrollX":832,"scrollY":640},
-{"id":69,"expanded":false,"name":"解谜4(交道具过关)","order":66,"parentId":6,"scrollX":832,"scrollY":640}
+{"id":69,"expanded":false,"name":"解谜4(交道具过关)","order":66,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":70,"expanded":false,"name":"测试1","order":70,"parentId":0,"scrollX":759.3333333333334,"scrollY":426.6666666666667},
+{"id":71,"expanded":false,"name":"测试2","order":71,"parentId":0,"scrollX":759.3333333333334,"scrollY":426.6666666666667}
 ]
