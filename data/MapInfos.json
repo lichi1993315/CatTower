@@ -59,5 +59,6 @@ null,
 {"id":57,"expanded":true,"name":"Floor0","order":57,"parentId":6,"scrollX":500.72727272727275,"scrollY":352.90909090909093},
 {"id":58,"expanded":true,"name":"MAP058","order":58,"parentId":6,"scrollX":500.72727272727275,"scrollY":352.90909090909093},
 {"id":59,"expanded":false,"name":"MAP059","order":59,"parentId":58,"scrollX":500.72727272727275,"scrollY":352.90909090909093},
-{"id":60,"expanded":true,"name":"弹幕躲避","order":60,"parentId":6,"scrollX":500.72727272727275,"scrollY":352.90909090909093}
+{"id":60,"expanded":true,"name":"弹幕躲避","order":60,"parentId":6,"scrollX":500.72727272727275,"scrollY":352.90909090909093},
+{"id":61,"expanded":false,"name":"拔河","order":61,"parentId":6,"scrollX":500.72727272727275,"scrollY":352.90909090909093}
 ]
