@@ -7,5 +7,6 @@ var $plugins =
 {"name":"MVMotaMonsters","status":true,"description":"","parameters":{}},
 {"name":"MVMotaAtcTypes","status":true,"description":"","parameters":{}},
 {"name":"MVMotaDefTypes","status":true,"description":"","parameters":{}},
-{"name":"test","status":true,"description":"Allows using more than 999 maps","parameters":{}}
+{"name":"test","status":true,"description":"Allows using more than 999 maps","parameters":{}},
+{"name":"GALV_MapProjectiles","status":true,"description":"(v.1.8) Create projectiles that can interact with the map and map characters","parameters":{"Tile Size":"48","Fade Speed":"40","Disable Mouse Move":"false","Premade 1":"-1,0,8,6,'bulletBlast',1,'|c(1),e,S(1:on)',[1],[],3,1,60","Premade 2":"0,-1,3,6,'bullet1',2,'c(21)',[],[],3,666","Premade 3":"-1,'m',8,6,'bullet0(8,5)',1,'|c(1),e,S(1:on)',[1],null,null,666","Premade 4":"","Premade 5":"","Premade 6":"","Premade 7":"","Premade 8":"","Premade 9":"","Premade 10":"","Premade 11":"","Premade 12":"","Premade 13":"","Premade 14":"","Premade 15":"","Premade 16":"","Premade 17":"","Premade 18":"","Premade 19":"","Premade 20":""}}
 ];
