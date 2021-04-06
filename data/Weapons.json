@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"animationId":6,"description":"Light and easy-to-use short sword.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"剑","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":2},
-{"id":2,"animationId":6,"description":"The strength of the longest combat sword.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"斧","note":"","params":[0,0,22,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":1,"animationId":16,"description":"一个轻巧的金属爪子","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"铜爪","note":"","params":[0,0,10,0,0,0,0,0],"price":100,"wtypeId":10},
+{"id":2,"animationId":16,"description":"一个有些沉重的金属爪子","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":105,"name":"铁爪","note":"","params":[0,0,20,0,0,0,0,0],"price":100,"wtypeId":10},
 {"id":3,"animationId":6,"description":"A broad sword with a crescent blade.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"杖","note":"","params":[0,0,35,0,0,0,0,0],"price":3000,"wtypeId":2},
 {"id":4,"animationId":6,"description":"Mythril sword made of the magic mineral.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"弓","note":"","params":[0,0,50,0,0,0,0,0],"price":6000,"wtypeId":2},
 {"id":5,"animationId":6,"description":"Engraved with magical runes.","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Rune Blade","note":"","params":[0,0,70,0,10,0,0,0],"price":15000,"wtypeId":2},
